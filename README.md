@@ -1,16 +1,13 @@
-### Hi there 👋
-
-<!--
-**gergokuncz/gergokuncz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 Freelance Website Programmer & Designer 🎨
+🌐 Transforming ideas into captivating web experiences! ✨
+🖥️ Proficient in HTML, CSS, and JavaScript 💡
+🎨 Crafting visually stunning designs that leave a lasting impression 🎉
+💻 Turning your vision into a pixel-perfect reality ✨
+🌟 Passionate about creating intuitive and user-friendly interfaces ⚡️
+💡 Constantly exploring innovative web technologies to stay ahead of the curve 🚀
+🔧 Expertise in responsive web design for seamless experiences across devices 📱💻🖥️
+💼 Delivering top-notch solutions tailored to your unique business needs 🎯
+🌈 Bringing your brand to life through vibrant colors and captivating animations 🌟
+💬 Let's collaborate and bring your website dreams to fruition! 🤝💻
+Portfolio: [xxx] 🌐
+Let's build something amazing together! ✨🚀
